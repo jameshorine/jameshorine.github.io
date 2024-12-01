@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research Projects and Collaborations:",
+    "section": "",
+    "text": "Research Projects and Collaborations:\n\nfastFeatures is an R package built from the ground up with one goal in mind: High-speed variable selection in typical statistical/data science settings so that you may (and shall) build a predictive model that is easy to explain and share.\nTidyAgronomy is the first “tidyverse” R Package to unify the data and model framework of commonly used features for agronomic data science at scale.\n\n\n\nPatents\n\nUS020240119542A120240411: SYSTEMS AND METHODS FOR ASSESSING CROP DAMAGING FACTORS ASSOCIATED WITH AGRONOMIC FIELDS"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "James Horine",
+    "section": "",
+    "text": "Hi, there! I am a first-year D.Eng student at Penn State’s School of Engineering Design and Innovation.\nMy research focuses on the theory and methods of building engineered systems for commodity risk management and economic valuation of non-market ESG impacts.\nI currently serve as a Lead (Applied) Scientist at Bayer, with over 10 years of experience spanning Agriculture, Aviation, Management Consulting, Marketing/Advertising Analytics, Marketing & Consumer Analytics, Technology Services, Education and Training, and Pure-Rlay R&D."
+  }
+]
