@@ -1,0 +1,12 @@
+---
+title: ""
+---
+
+# Research Projects and Collaborations:
+
+-   [fastFeatures](https://github.com/jameshorine/fastFeatures) is an `R` package built from the ground up with one goal in mind: High-speed variable selection in typical statistical/data science settings so that you may (and shall) build a predictive model that is easy to explain and share.
+-   [TidyAgronomy](https://github.com/modern-agronomy/tidyagronomy) is the first “tidyverse” `R` Package to unify the data and model framework of commonly used features for agronomic data science at scale.
+
+# Patents
+
+-   [**US020240119542A120240411**](https://patentimages.storage.googleapis.com/1b/af/2e/60fd122f1f4990/US20240119542A1.pdf){target="_blank"}: SYSTEMS AND METHODS FOR ASSESSING CROP DAMAGING FACTORS ASSOCIATED WITH AGRONOMIC FIELDS
