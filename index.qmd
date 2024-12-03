@@ -10,4 +10,4 @@ Hi, there! I am a first-year D.Eng student at Penn State's [School of Engineerin
 
 My research focuses on the theory and methods of building engineered systems for commodity risk management and economic valuation of non-market ESG impacts.
 
-I currently serve as a Lead (Applied) Scientist at Bayer, with over 10 years of experience spanning Agriculture, Aviation, Management Consulting, Marketing/Advertising Analytics, Marketing & Consumer Analytics, Technology Services, Education and Training, and Pure-Rlay R&D.
+I currently serve as a Lead (Applied) Scientist at Bayer, with over 10 years of experience spanning Agriculture, Aviation, Management Consulting, Marketing/Advertising Analytics, Marketing & Consumer Analytics, Technology Services, Education and Training, and Pure-Play R&D.
