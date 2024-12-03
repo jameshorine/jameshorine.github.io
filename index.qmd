@@ -2,6 +2,10 @@
 title: ""
 ---
 
+::: icon-box
+![](media/_me.jpg){.icon-img alt="profile pic" fig-align="center" width="631"}
+:::
+
 Hi, there! I am a first-year D.Eng student at Penn State's [School of Engineering Design and Innovation](https://www.sedi.psu.edu/){target="_blank"}.
 
 My research focuses on the theory and methods of building engineered systems for commodity risk management and economic valuation of non-market ESG impacts.

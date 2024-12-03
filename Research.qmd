@@ -17,7 +17,7 @@ title: ""
 
 -   [**US020240119542A120240411**](https://patentimages.storage.googleapis.com/1b/af/2e/60fd122f1f4990/US20240119542A1.pdf){target="_blank"}: SYSTEMS AND METHODS FOR ASSESSING CROP DAMAGING FACTORS ASSOCIATED WITH AGRONOMIC FIELDS
 
-# Research Interests: 
+# Research Interests:
 
 -   Time Series, Frequency and Spectral Estimation, Machine Learning Approximations to Auto-Regressive Problems.
 

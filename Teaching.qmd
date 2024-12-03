@@ -1,0 +1,11 @@
+---
+title: ""
+---
+
+# Teaching
+
+-   [A Fast Primer On Time Series](media/Classical_Linear_Time_Series_Talk.pdf)
+
+-   [A Brief Introduction to Gradient Descent](media/bootcamp_teaching_example.pdf)
+
+-   [San Jose State University - Math 161A](media/Math_161A_lecture_instructor.pdf)

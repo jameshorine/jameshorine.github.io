@@ -9,6 +9,8 @@ website:
         href: Research.qmd
       - text: "**CV**"
         href: media/_cv.pdf
+      - text: "**Teaching**"
+        href: Teaching.qmd
         
     tools:
         - icon: github
