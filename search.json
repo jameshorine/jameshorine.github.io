@@ -14,6 +14,13 @@
     "text": "Research Projects and Collaborations:\n\nfastFeatures is an R package built from the ground up with one goal in mind: High-speed variable selection in typical statistical/data science settings so that you may (and shall) build a predictive model that is easy to explain and share.\n\nCollaborators:\n\nCarson Sprock\n\n\nTidyAgronomy is the first “tidyverse” R Package to unify the data and model framework of commonly used features for agronomic data science at scale.\n\nCollaborators:\n\nLucky Mehra\nPaul Tanger\nMohammad Bannayan\n\n\n\n\n\nPatents\n\nUS020240119542A120240411: SYSTEMS AND METHODS FOR ASSESSING CROP DAMAGING FACTORS ASSOCIATED WITH AGRONOMIC FIELDS\n\n\n\nResearch Interests:\n\nTime Series, Frequency and Spectral Estimation, Machine Learning Approximations to Auto-Regressive Problems.\nDimensionality Reduction\nHigh-Speed Approx. Correct Model Solutions"
   },
   {
+    "objectID": "Teaching.html",
+    "href": "Teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching\n\nA Fast Primer On Time Series\nA Brief Introduction to Gradient Descent\nSan Jose State University - Math 161A"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
