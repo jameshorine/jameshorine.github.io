@@ -34,3 +34,5 @@ title: ""
 -   High-Speed & Approx. Correct Model Solutions, Capabilities, and Pipelines.
 
 -   Engineered Systems and Machine Learning System Architecture
+
+-   Crop, Pest, and Disease Modeling for Commercial Agricultural Applications.
