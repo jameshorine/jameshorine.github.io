@@ -25,8 +25,12 @@ title: ""
 
 # Research Interests
 
--   Time Series, Frequency and Spectral Estimation, Machine Learning Approximations to Auto-Regressive Problems.
+-   Time Series, Frequency and Spectral Estimation
+
+-   Machine Learning Approximations to Auto-Regressive Time Series Model Problems. Quantile Auto-Regression and QAR-Forests.
 
 -   Dimensionality Reduction
 
--   High-Speed Approx. Correct Model Solutions
+-   High-Speed & Approx. Correct Model Solutions, Capabilities, and Pipelines.
+
+-   Engineered Systems and Machine Learning System Architecture
