@@ -2,6 +2,10 @@
 title: ""
 ---
 
+# Conference Presentations
+
+-   [osQF](https://www.osqf.org/) 2025: [Tidyagronomy](https://docs.google.com/presentation/d/1u3HbP-FiQe6QhLHCFn73zlCKUTz2Yk56GsjjJxOb3P8/edit?usp=sharing) - An R package to Quantify Growing Degree Units (and Impacts on Agricultural Commodity Markets)
+
 # Research Projects and Collaborations
 
 -   Python implementation of `bolasso`: (in progress, 12/2024) Combining aspects of `fastFeatures`, `bolasso`, and research from several authors to build a robust bootstrap lasso package for the modern data science and statistical environment.
