@@ -5,8 +5,6 @@ website:
   title: "James Horine"
   navbar:
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "Research"
         href: Research.qmd
       - text: "Teaching"
