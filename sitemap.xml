@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://jameshorine.github.io/about.html</loc>
-    <lastmod>2026-01-20T02:28:08.598Z</lastmod>
-  </url>
-  <url>
     <loc>https://jameshorine.github.io/index.html</loc>
-    <lastmod>2026-01-20T02:28:08.599Z</lastmod>
+    <lastmod>2026-06-18T14:32:12.843Z</lastmod>
   </url>
   <url>
-    <loc>https://jameshorine.github.io/Research.html</loc>
-    <lastmod>2026-01-20T02:28:08.582Z</lastmod>
+    <loc>https://jameshorine.github.io/gltc-shape-of-the-grid/index.html</loc>
+    <lastmod>2026-06-18T14:32:12.840Z</lastmod>
   </url>
   <url>
     <loc>https://jameshorine.github.io/Teaching.html</loc>
-    <lastmod>2026-01-20T02:28:08.582Z</lastmod>
+    <lastmod>2026-06-18T14:32:12.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jameshorine.github.io/Research.html</loc>
+    <lastmod>2026-06-18T14:32:12.825Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jameshorine.github.io/about.html</loc>
+    <lastmod>2026-06-18T14:32:12.840Z</lastmod>
   </url>
 </urlset>
