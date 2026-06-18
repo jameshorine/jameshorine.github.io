@@ -1,0 +1,9 @@
+---
+title: "Shape of the Grid: MiddwestFest GLTC Qualifying"
+description: "An interactive look at how the GLTC grid sets up in qualifying."
+date: 2026-06-13
+categories: [racing, data-viz]
+image: thumbnail.png
+---
+
+Shape of the grid: GLTC Qualifying - Midwestfest 2026!

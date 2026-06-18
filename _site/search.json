@@ -4,27 +4,34 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This site is a compact portfolio of my research, teaching, and applied data work.\nIt brings together:\n\nrecent research and collaboration highlights\nteaching materials and course notes\nproject writeups and links to related repositories\na current CV for quick reference\n\nThe goal is to keep the site easy to scan while still showing the breadth of my work across analytics, engineering, and applied research."
   },
   {
-    "objectID": "Research.html",
-    "href": "Research.html",
-    "title": "Research Projects and Collaborations",
+    "objectID": "gltc-shape-of-the-grid/index.html",
+    "href": "gltc-shape-of-the-grid/index.html",
+    "title": "Shape of the Grid: GLTC Qualifying",
     "section": "",
-    "text": "Research Projects and Collaborations\n\nPython implementation of bolasso: (in progress, 12/2024) Combining aspects of fastFeatures, bolasso, and research from several authors to build a robust bootstrap lasso package for the modern data science and statistical environment.\n\nCollaborators:\n\nDaniel Molitor\nDaniel Eubanks\n\n\nfastFeatures is an R package built from the ground up with one goal in mind: High-speed variable selection in typical statistical/data science settings so that you may (and shall) build a predictive model that is easy to explain and share.\n\nCollaborators:\n\nCarson Sprock\n\n\nTidyAgronomy is the first “tidyverse” R Package to unify the data and model framework of commonly used features for agronomic data science at scale.\n\nCollaborators:\n\nLucky Mehra\nPaul Tanger\nMohammad Bannayan\n\n\n\n\n\nPatents\n\nUS020240119542A120240411: Systems and Methods for Assessing Crop-Damaging Factors Associated with Agronomic Fields.\n\n\n\nResearch Interests\n\nTime Series, Frequency and Spectral Estimation\nMachine Learning Approximations to Auto-Regressive Time Series Model Problems. Quantile Auto-Regression and QAR-Forests.\nDimensionality Reduction\nHigh-Speed & Approx. Correct Model Solutions, Capabilities, and Pipelines.\nEngineered Systems and Machine Learning System Architecture\nCrop, Pest, and Disease Modeling for Commercial Agricultural Applications."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "James Horine",
-    "section": "",
-    "text": "Hi, there! I am a first-year D.Eng student at Penn State’s School of Engineering Design and Innovation.\nMy research focuses on the theory and methods of building engineered systems for commodity risk management and economic valuation of non-market ESG impacts.\nI currently serve as a Lead (Applied) Scientist at Bayer, with over 10 years of experience spanning Agriculture, Aviation, Management Consulting, Marketing/Advertising Analytics, Marketing & Consumer Analytics, Technology Services, Education and Training, and Pure-Play R&D."
+    "text": "Shape of the grid: GLTC Qualifying - Midwestfest 2026!"
   },
   {
     "objectID": "Teaching.html",
     "href": "Teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching\n\nA Fast Primer On Time Series\nA Brief Introduction to Gradient Descent\nSan Jose State University - Math 161A"
+    "text": "Here are a few teaching and workshop materials I have used across courses and professional settings.\n\nA Fast Primer on Time Series\nA Brief Introduction to Gradient Descent\nSan Jose State University - Math 161A\nGeorge Mason University - CYSE 690"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Conference Presentations\n\nosQF 2025: Tidyagronomy - An R package to Quantify Growing Degree Units (and Impacts on Agricultural Commodity Markets)\n\n\n\nResearch Projects and Collaborations\n\nPython implementation of bolasso: (in progress, 12/2024) Combining aspects of fastFeatures, bolasso, and research from several authors to build a robust bootstrap lasso package for the modern data science and statistical environment.\n\nCollaborators:\n\nDaniel Molitor\nDaniel Eubanks\n\n\nfastFeatures is an R package built from the ground up with one goal in mind: High-speed variable selection in typical statistical/data science settings so that you may (and shall) build a predictive model that is easy to explain and share.\n\nCollaborators:\n\nCarson Sprock\n\n\nTidyAgronomy is the first “tidyverse” R Package to unify the data and model framework of commonly used features for agronomic data science at scale.\n\nCollaborators:\n\nLucky Mehra\nPaul Tanger\nMohammad Bannayan\n\n\n\n\n\nPatents\n\nUS020240119542A120240411: Systems and Methods for Assessing Crop-Damaging Factors Associated with Agronomic Fields.\n\n\n\nResearch Interests\n\nTime Series, Frequency and Spectral Estimation\nMachine Learning Approximations to Auto-Regressive Time Series Model Problems. Quantile Auto-Regression and QAR-Forests.\nDimensionality Reduction\nHigh-Speed & Approx. Correct Model Solutions, Capabilities, and Pipelines.\nEngineered Systems and Machine Learning System Architecture\nCrop, Pest, and Disease Modeling for Commercial Agricultural Applications."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "James Horine",
+    "section": "",
+    "text": "I am a second-year D.Eng student at Penn State’s School of Engineering Design and Innovation, with research focused on engineered systems for simulating and evaluating market and non-market economic impacts.\nI currently work in Applied Sciences (Data Science) at Bayer and bring more than 10 years of experience across agriculture, aviation, consulting, analytics, and applied R&D.\nThis site highlights my current research, teaching materials, and selected projects."
   }
 ]

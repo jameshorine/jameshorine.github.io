@@ -2,8 +2,13 @@
 title: "About"
 ---
 
-About this site
+This site is a compact portfolio of my research, teaching, and applied data work.
 
-```{r}
-1 + 1
-```
+It brings together:
+
+- recent research and collaboration highlights
+- teaching materials and course notes
+- project writeups and links to related repositories
+- a current CV for quick reference
+
+The goal is to keep the site easy to scan while still showing the breadth of my work across analytics, engineering, and applied research.

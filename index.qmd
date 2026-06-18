@@ -1,13 +1,19 @@
 ---
-title: ""
+title: "James Horine"
+about:
+  template: trestles
+  image: media/_me.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/jameshorine
+    - icon: file-earmark-text
+      text: CV
+      href: media/_cv.pdf
 ---
 
-::: icon-box
-![](media/_me.jpg){.icon-img alt="profile pic" fig-align="center" width="631"}
-:::
+I am a second-year D.Eng student at Penn State’s School of Engineering Design and Innovation, with research focused on engineered systems for simulating and evaluating market and non-market economic impacts.
 
-Hi, there! I am a first-year D.Eng student at Penn State's [School of Engineering Design and Innovation](https://www.sedi.psu.edu/){target="_blank"}.
+I currently work in Applied Sciences (Data Science) at Bayer and bring more than 10 years of experience across agriculture, aviation, consulting, analytics, and applied R&D.
 
-My research focuses on the theory and methods of building engineered systems for the simulation and evaluation of market and non-market economic impacts.
-
-I currently serve in Applied Sciences (Data Science) at Bayer, with over 10 years of experience spanning Agriculture, Aviation, Management Consulting, Marketing/Advertising Analytics, Marketing & Consumer Analytics, Technology Services, Education and Training, and Pure-Play R&D.
+This site highlights my current research, teaching materials, and selected projects.

@@ -1,11 +1,10 @@
 ---
-title: ""
+title: "Teaching"
 ---
 
-# Teaching
+Here are a few teaching and workshop materials I have used across courses and professional settings.
 
--   [A Fast Primer On Time Series](media/Classical_Linear_Time_Series_Talk.pdf)
-
--   [A Brief Introduction to Gradient Descent](media/bootcamp_teaching_example.pdf)
-
--   [San Jose State University - Math 161A](media/Math_161A_lecture_instructor.pdf)
+- [A Fast Primer on Time Series](media/Classical_Linear_Time_Series_Talk.pdf){target="_blank"}
+- [A Brief Introduction to Gradient Descent](media/bootcamp_teaching_example.pdf){target="_blank"}
+- [San Jose State University - Math 161A](media/Math_161A_lecture_instructor.pdf){target="_blank"}
+- George Mason University - CYSE 690

@@ -5,17 +5,22 @@ website:
   title: "James Horine"
   navbar:
     left:
-      - text: "**Research**"
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
         href: Research.qmd
-      - text: "**CV**"
-        href: media/_cv.pdf
-      - text: "**Teaching**"
+      - text: "Teaching"
         href: Teaching.qmd
-        
+      - text: "CV"
+        href: media/_cv.pdf
+      - text: "Shape Of The Grid"
+        menu:
+          - text: "GLTC"
+            href: gltc-shape-of-the-grid/index.qmd
     tools:
-        - icon: github
-          href: https://github.com/jameshorine
-          test: James' GitHub
+      - icon: github
+        href: https://github.com/jameshorine
+        text: GitHub
 execute:
   freeze: auto
 
