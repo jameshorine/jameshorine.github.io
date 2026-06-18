@@ -6,4 +6,4 @@ categories: [racing, data-viz]
 image: thumbnail.png
 ---
 
-Shape of the grid: GLTC Qualifying - Midwestfest 2026!
+Shape of the grid: GLTC Qualifying - Midwestfest 2026!!
