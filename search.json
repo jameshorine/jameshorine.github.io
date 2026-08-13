@@ -1,19 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "James Horine",
-    "section": "",
-    "text": "Hi, there! I am a second-year D.Eng student at Penn State’s School of Engineering Design and Innovation.\nMy research focuses on the theory and methods of building engineered systems for the simulation and evaluation of market and non-market economic impacts.\nI currently serve in Applied Sciences (Data Science) at Bayer, with over 10 years of experience spanning Agriculture, Aviation, Management Consulting, Marketing & Consumer Analytics, Technology Services, Education and Training, and Pure-Play R&D."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "This site is a compact portfolio of my research, teaching, and applied data work.\nIt brings together:\n\nrecent research and collaboration highlights\nteaching materials and course notes\nproject writeups and links to related repositories\na current CV for quick reference\n\nThe goal is to keep the site easy to scan while still showing the breadth of my work across analytics, engineering, and applied research."
-  },
-  {
     "objectID": "Research.html",
     "href": "Research.html",
     "title": "Research",
@@ -26,5 +12,19 @@
     "title": "Teaching",
     "section": "",
     "text": "Teaching\n\nA Fast Primer On Time Series\nA Brief Introduction to Gradient Descent\nSan Jose State University - Math 161A\nGeorge Mason University - CYSE 690"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This site is a compact portfolio of my research, teaching, and applied data work.\nIt brings together:\n\nrecent research and collaboration highlights\nteaching materials and course notes\nproject writeups and links to related repositories\na current CV for quick reference\n\nThe goal is to keep the site easy to scan while still showing the breadth of my work across analytics, engineering, and applied research."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "James Horine",
+    "section": "",
+    "text": "Hi, there! I am a second-year D.Eng student at Penn State’s School of Engineering Design and Innovation.\nMy research focuses on the theory and methods of building engineered systems for the simulation and evaluation of market and non-market economic impacts.\nI currently serve in Applied Sciences (Data Science) at Bayer, with over 10 years of experience spanning Agriculture, Aviation, Management Consulting, Marketing & Consumer Analytics, Technology Services, Education and Training, and Pure-Play R&D."
   }
 ]
