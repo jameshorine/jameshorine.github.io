@@ -11,10 +11,6 @@ website:
         href: Teaching.qmd
       - text: "CV"
         href: media/_cv.pdf
-      - text: "Shape Of The Grid"
-        menu:
-          - text: "GLTC"
-            href: gltc-shape-of-the-grid/index.qmd
     tools:
       - icon: github
         href: https://github.com/jameshorine
