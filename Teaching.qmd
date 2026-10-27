@@ -10,4 +10,4 @@ title: "Teaching"
 
 -   [San Jose State University - Math 161A](media/Math_161A_lecture_instructor.pdf)
 
--   George Mason University - CYSE 690
+-   [George Mason University - CYSE 690](https://catalog.gmu.edu/courses/cyse/)

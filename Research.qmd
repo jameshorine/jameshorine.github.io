@@ -2,6 +2,10 @@
 title: "Research"
 ---
 
+# Software
+
+[`useful-views`](https://pypi.org/project/useful-views/): A framework and data project structure in which every derived table records the recipe that made it.
+
 # Conference Presentations
 
 -   [osQF](https://www.osqf.org/) 2025: [Tidyagronomy](https://docs.google.com/presentation/d/1u3HbP-FiQe6QhLHCFn73zlCKUTz2Yk56GsjjJxOb3P8/edit?usp=sharing) - An R package to Quantify Growing Degree Units (and Impacts on Agricultural Commodity Markets)
@@ -26,6 +30,10 @@ title: "Research"
 -   [**US020240119542A120240411**](https://patentimages.storage.googleapis.com/1b/af/2e/60fd122f1f4990/US20240119542A1.pdf){target="_blank"}: Systems and Methods for Assessing Crop-Damaging Factors Associated with Agronomic Fields.
 
 # Research Interests
+
+-   Geospatial Artificial Intelligence
+
+-   Spatial Econometrics
 
 -   Time Series, Frequency and Spectral Estimation
 
